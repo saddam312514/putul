@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://saddam:312514@new-project-rtp3t.mongodb.net/shohoz?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
